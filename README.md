@@ -48,17 +48,23 @@ lumina-creative/
 
 ## 🔧 How to Use
 
-1. **Download or Clone Repository**
+1. **Live Demo**
+
+   ```bash
+   https://theluminacreatives.netlify.app/
+   ```
+
+2. **Download or Clone Repository**
 
    ```bash
    git clone https://github.com/yourusername/lumina-creative.git
    ```
 
-2. **Open in Browser**
+3. **Open in Browser**
 
    - Open `index.html` in your preferred browser.
 
-3. **Customize**
+4. **Customize**
    - Replace images in `images/` folder with your own.
    - Update text content in `about.html` and `contact.html`.
    - Adjust styles in `css/styles.css` as needed.
