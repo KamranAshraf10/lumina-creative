@@ -57,7 +57,7 @@ lumina-creative/
 2. **Download or Clone Repository**
 
    ```bash
-   git clone https://github.com/yourusername/lumina-creative.git
+   git clone https://github.com/KamranAshraf10/lumina-creative.git
    ```
 
 3. **Open in Browser**
