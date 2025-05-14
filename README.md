@@ -65,7 +65,7 @@ lumina-creative/
    - Open `index.html` in your preferred browser.
 
 4. **Customize**
-   - Replace images in `images/` folder with your own.
+   - Replace images in the `images/` folder with your own.
    - Update text content in `about.html` and `contact.html`.
    - Adjust styles in `css/styles.css` as needed.
 
